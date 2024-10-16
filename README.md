@@ -1,6 +1,16 @@
 <h1 align="center">Hi 👋, I'm Sagar Bhilawade</h1>
 <h3 align="center">Full Stack Developer | Crafting Modern Web Apps with Angular, Spring Boot & Microservices</h3>
 
+
+## About Me
+
+I'm a passionate Full-Stack Developer with expertise in building scalable web applications using modern technologies like **Angular**, **Spring Boot** and **Microservices Architecture**. I love creating clean, efficient, and maintainable code and have a strong interest in exploring new frameworks and tools.
+
+- 🌐 **2+ years** of experience as a Full-Stack Developer with hands on experiece with a microservices-based application using **Angular**, **Spring Boot**.
+- 🛠️ Specializing in technologies like **Angular**, **Spring Boot**, **Docker**, **AWS**.
+- 🚀 Currently focused on building scalable, high-performance web applications and diving deeper into **Cloud Computing** and **DevOps**.
+
+
 - 🌱 I’m currently learning **Docker**
 
 - 📫 How to reach me **bhilawadesagar321@gmail.com**
