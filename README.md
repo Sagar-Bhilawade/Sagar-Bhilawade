@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning **Docker**
 
 - 📫 How to reach me **bhilawadesagar321@gmail.com**
-- 📄 Know about my experiences [https://github.com/Sagar-Bhilawade/resume-and-certificates/blob/main/Sagar_Bhilawade_13_Oct.pdf](https://github.com/Sagar-Bhilawade/resume-and-certificates/blob/main/Sagar_Bhilawade_13_Oct.pdf)
+- 📄 Know about my experiences https://github.com/Sagar-Bhilawade/resume-and-certificates/blob/main/Resume.pdf
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
