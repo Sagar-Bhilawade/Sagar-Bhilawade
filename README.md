@@ -12,7 +12,7 @@ I'm a passionate **Automation Engineer** with expertise in designing and impleme
 - 🌱 I’m currently learning **Docker** and **AWS** for cloud-based automation solutions.
 
 - 📫 How to reach me **bhilawadesagar321@gmail.com**
-- 📄 Know about my experiences [Resume](https://github.com/Sagar-Bhilawade/resume-and-certificates/blob/main/Sagar_Bhilawade (6).pdf)
+- 📄 Know about my experiences [Resume](https://github.com/Sagar-Bhilawade/resume-and-certificates/blob/main/Sagar_Bhilawade%20(6).pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
